@@ -1,2 +1,4 @@
-Blog: Hasefukashi.in
+Blog:  Hasefukashi.in
+
+
 On my way of learning.
